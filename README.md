@@ -18,7 +18,8 @@ Download file https://github.com/scresto09/geany_incdec_plugin_standalone/archiv
 
 Run:
 ```
-./configure
+unzip main.zip
+cd geany_incdec_plugin_standalone-main
 make
 make install
 ```
